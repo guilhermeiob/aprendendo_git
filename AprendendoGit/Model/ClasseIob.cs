@@ -18,5 +18,10 @@ namespace AprendendoGit.Model
             Console.WriteLine(str);
         }
 
+        public void dobro()
+        {
+            num = num * 2;
+        }
+
     }
 }
