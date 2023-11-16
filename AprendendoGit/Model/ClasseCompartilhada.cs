@@ -8,5 +8,6 @@ namespace AprendendoGit.Model
 {
     internal class ClasseCompartilhada
     {
+        public int iob = 11;
     }
 }
