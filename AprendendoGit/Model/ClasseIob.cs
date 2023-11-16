@@ -8,5 +8,8 @@ namespace AprendendoGit.Model
 {
     internal class ClasseIob
     {
+
+        public string str = "String de teste";
+
     }
 }
