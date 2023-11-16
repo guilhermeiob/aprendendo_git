@@ -11,5 +11,7 @@ namespace AprendendoGit.Model
 
         public string str = "String de teste";
 
+        public int num = 10;
+
     }
 }
