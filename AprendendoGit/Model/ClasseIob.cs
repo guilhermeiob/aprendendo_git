@@ -13,5 +13,10 @@ namespace AprendendoGit.Model
 
         public int num = 10;
 
+        public void funcao()
+        {
+            Console.WriteLine(str);
+        }
+
     }
 }
