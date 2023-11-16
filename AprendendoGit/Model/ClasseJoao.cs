@@ -8,5 +8,8 @@ namespace AprendendoGit.Model
 {
     internal class ClasseJoao
     {
+        public string nome;
+        public string descricao;
+        public int idade;
     }
 }
