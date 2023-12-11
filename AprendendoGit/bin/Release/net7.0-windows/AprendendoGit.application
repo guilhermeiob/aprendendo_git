@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="AprendendoGit.application" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <assemblyIdentity name="AprendendoGit.application" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="AprendendoGit" asmv2:product="AprendendoGit" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" mapFileExtensions="true">
+  <deployment install="true" mapFileExtensions="true" co.v1:createDesktopShortcut="true">
     <subscription>
       <update>
         <beforeApplicationStartup />
@@ -15,13 +15,13 @@
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="AprendendoGit.dll.manifest" size="4693">
-      <assemblyIdentity name="AprendendoGit.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+      <assemblyIdentity name="AprendendoGit.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>F1nE1Xj895Dhj1xRscgl0qrn5wtTg8X2I8Z+AgbiOZc=</dsig:DigestValue>
+        <dsig:DigestValue>zn721B1RtYLPpMaTWtgvIQ/4uS5tr+7GS8Nq2c8/S9w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
