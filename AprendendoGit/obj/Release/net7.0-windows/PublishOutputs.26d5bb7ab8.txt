@@ -1,0 +1,5 @@
+C:\Users\nome\Desktop\aprendendogit\AprendendoGit\bin\Release\net7.0-windows\app.publish\AprendendoGit.exe
+C:\Users\nome\Desktop\aprendendogit\AprendendoGit\bin\Release\net7.0-windows\app.publish\AprendendoGit.dll
+C:\Users\nome\Desktop\aprendendogit\AprendendoGit\bin\Release\net7.0-windows\app.publish\AprendendoGit.deps.json
+C:\Users\nome\Desktop\aprendendogit\AprendendoGit\bin\Release\net7.0-windows\app.publish\AprendendoGit.runtimeconfig.json
+C:\Users\nome\Desktop\aprendendogit\AprendendoGit\bin\Release\net7.0-windows\app.publish\AprendendoGit.pdb
